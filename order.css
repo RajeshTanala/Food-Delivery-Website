@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  background-color: white;
+  color: black;
+  background-image: url('Uber-for-delivery.jpg');
+  width: 400px;
+  height: 400px;
+  border: 15px solid orange;
+  padding: 100px;
+  margin: 100px;
+  margin-left: 400px;
+}
+.backgg{
+  background-color:orange;
+}
+.topll{
+  background-color: white;
+}

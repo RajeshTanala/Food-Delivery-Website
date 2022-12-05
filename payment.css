@@ -1,0 +1,30 @@
+.del{
+  text-align: center;
+  background-color: white;
+  color: white;
+  background-image: url('Uber-for-delivery.jpg');
+  width: 400px;
+  height: 700px;
+  border: 15px solid orange;
+  padding: 100px;
+  margin: 100px;
+  margin-left: 400px;
+}
+.img{
+  width: 20vw;
+  height: 40vh;
+}
+.img1{
+  width: 20vw;
+  height: 40vh;
+
+}
+.new{
+  background-color: white;
+  width: 400px;
+  height: 240px;
+  border: 5px solid orange;
+  padding: 20px;
+  margin: 50px;
+  margin-left: -28px;
+}
